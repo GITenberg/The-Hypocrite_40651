@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38288
     wikipedia: http://www.gutenberg.org/ebooks/author/39349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40651#The-Hypocrite
 gutenberg_issued: '2012-09-02'
 gutenberg_type: Text
 identifiers:
